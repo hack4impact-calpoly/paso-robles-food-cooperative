@@ -1,6 +1,6 @@
-# name of non-profit
+# Paso Robles Food Cooperative
 
-{One sentence description of the project}
+TBD
 
 ## Table of Contents
 
