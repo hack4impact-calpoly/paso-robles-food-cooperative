@@ -1,6 +1,6 @@
 # Paso Robles Food Cooperative
 
-TBD
+Paso Robles is starting a Member Owned Grocery Store!  Fresh. Healthy. Local.
 
 ## Table of Contents
 
@@ -17,13 +17,13 @@ TBD
 
 ### Team
 
-The {non-profit name} team consists of {#} Cal Poly students. Over the course of about 9 months, we worked as a team to deploy this web application. The team members are listed below:
+The paso robles food cooperative team consists of {#} Cal Poly students. Over the course of about 9 months, we worked as a team to deploy this web application. The team members are listed below:
 
 - [Misha Bandi](https://www.linkedin.com/) - Project Manager
-- [Navyaa Vemuri]([https://www.linkedin.com/](https://www.linkedin.com/in/navyaavemuri/)) - Designer
-- [Dakshesh Pasala]([https://www.linkedin.com/](https://www.linkedin.com/in/dakshesh-pasala-996780295/)) - Designer
-- [Connor Brien]([https://www.linkedin.com/](https://github.com/connorpobrien)) - Tech Lead
-- [Ke Lyu]([https://www.linkedin.com/](https://github.com/upluke)) - Tech Lead
+- [Navyaa Vemuri]((https://www.linkedin.com/in/navyaavemuri/)) - Designer
+- [Dakshesh Pasala]((https://www.linkedin.com/in/dakshesh-pasala-996780295/)) - Designer
+- [Connor Brien]((https://github.com/connorpobrien)) - Tech Lead
+- [Ke Lyu]((https://github.com/upluke)) - Tech Lead
 - [Poornima Godavarthy]([https://www.linkedin.com/](https://www.linkedin.com/in/poornima-godavarthy/)) - Software Developer
 
 ## Getting Started And Contributing
