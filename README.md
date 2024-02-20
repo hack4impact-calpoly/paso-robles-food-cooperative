@@ -25,6 +25,7 @@ The paso robles food cooperative team consists of {#} Cal Poly students. Over th
 - [Connor O'Brien](https://github.com/connorpobrien) - Tech Lead
 - [Ke Lyu](https://github.com/upluke) - Tech Lead
 - [Poornima Godavarthy](https://www.linkedin.com/in/poornima-godavarthy/) - Software Developer
+- [Daniel Ching](https://www.linkedin.com/in/daniel-ching-783b87221/) - Software Developer
 
 ## Getting Started And Contributing
 
