@@ -28,6 +28,7 @@ The paso robles food cooperative team consists of {#} Cal Poly students. Over th
 - [Jonathan DeBarro](https://www.linkedin.com/in/jonathanmd/) - Software Developer
 - [Daniel Ching](https://www.linkedin.com/in/daniel-ching-783b87221/) - Software Developer
 - [Lukas Shipley](https://github.com/Bolt259) - Software Developer
+- [Rhoyalinn Cereno](https://www.linkedin.com/in/rhoyalinncereno/) - Software Developer
 
 
 ## Getting Started And Contributing
