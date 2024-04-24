@@ -22,6 +22,7 @@ The paso robles food cooperative team consists of {#} Cal Poly students. Over th
 - [Misha Bandi](https://www.linkedin.com/in/misha-bandi-4959521a3/) - Project Manager
 - [Navyaa Vemuri](https://www.linkedin.com/in/navyaavemuri/) - Designer
 - [Dakshesh Pasala](https://www.linkedin.com/in/dakshesh-pasala-996780295/) - Designer
+- [Sabrina Huang](http://linkedin.com/in/sabrina-huang-9b719b240/) - Designer
 - [Connor O'Brien](https://github.com/connorpobrien) - Tech Lead
 - [Ke Lyu](https://github.com/upluke) - Tech Lead
 - [Poornima Godavarthy](https://www.linkedin.com/in/poornima-godavarthy/) - Software Developer
