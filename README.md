@@ -19,7 +19,7 @@ Paso Robles is starting a Member Owned Grocery Store!  Fresh. Healthy. Local.
 
 The paso robles food cooperative team consists of {#} Cal Poly students. Over the course of about 9 months, we worked as a team to deploy this web application. The team members are listed below:
 
-- [Misha Bandi](https://www.linkedin.com/in/misha-bandi-4959521a3/) - Project Manager
+- [Misha Bandi](https://www.linkedin.com/in/misha-bandi-4959521a3/) - Product Manager
 - [Navyaa Vemuri](https://www.linkedin.com/in/navyaavemuri/) - Designer
 - [Dakshesh Pasala](https://www.linkedin.com/in/dakshesh-pasala-996780295/) - Designer
 - [Connor O'Brien](https://github.com/connorpobrien) - Tech Lead
